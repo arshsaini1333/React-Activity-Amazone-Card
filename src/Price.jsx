@@ -26,4 +26,4 @@ function Price({ oldPrice, newPrice }) {
   );
 }
 
-// export default Price;
+export default Price;
